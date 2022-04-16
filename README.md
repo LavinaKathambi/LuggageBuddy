@@ -1,0 +1,2 @@
+# LuggageBuddy
+Luggage Buddy is an app that connects travellers with excess baggage with travellers who have space in the luggage, both going to the same destination. The traveller who has space can list available space on the platform while a traveller with excess luggage can connect with them. When they contact each other, the traveller with excess luggage can give some of their items to the traveller with extra space. Upon arrival at the destination, communication through the platform will happen to ensure the successful return of the luggage. 
